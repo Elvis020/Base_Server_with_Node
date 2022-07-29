@@ -12,9 +12,6 @@ log.txt
 .vscode/
 npm-debug.log*
 
-# Temporal
-s3*
-sql*
 
 .idea/
 .ionic/
